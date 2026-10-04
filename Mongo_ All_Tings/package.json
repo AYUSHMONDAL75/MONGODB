@@ -1,0 +1,8 @@
+{
+  "name": "mongo-class",
+  "version": "1.0.0",
+  "description": "MongoDB and Mongoose class notes",
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
